@@ -401,7 +401,7 @@ Vip 🌟 :
 
 Pr-ice List💸 :
 Day-->80 Rs
-Week-->400 Rs
+Week-->700 Rs
 Month-->1000 Rs
 '''
     bot.reply_to(message, response)
